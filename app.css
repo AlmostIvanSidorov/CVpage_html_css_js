@@ -80,10 +80,10 @@ a:active {
 }
 
 /* Box Model */
-.container {
+/* .container {
     max-width: 750px;
     margin: auto;
-}
+} */
 
 .list {
     padding: 0 20px;
