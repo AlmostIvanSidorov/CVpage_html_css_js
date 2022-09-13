@@ -8,11 +8,11 @@ header1.style.padding = '1rem'
 
 header1.style.borderRadius = '20px'
 
-header1.style.maxWidth = '500px'
+// header1.style.maxWidth = '500px'
 
-header1.style.position = 'fixed'
+// header1.style.position = 'fixed'
 
-header1.style.right = '15%'
+// header1.style.right = '15%'
 
 switchBackgroundColor(header1)
 
