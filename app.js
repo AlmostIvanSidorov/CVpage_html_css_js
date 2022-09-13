@@ -14,10 +14,6 @@ header1.style.position = 'fixed'
 
 header1.style.right = '15%'
 
-// console.log('hi') snippet case
-
-// const heading = document.querySelector('h1')
-
 switchBackgroundColor(header1)
 
 function switchBackgroundColor(node) {
