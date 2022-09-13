@@ -37,10 +37,20 @@ body {
     /* margin-bottom: 20px; */
 }
 
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+
 @media (max-width: 700px) {
     .info {
         text-align: center;
         display: block;
+    }
+
+    .container {
+        max-width: auto;
+        margin: auto;
     }
 }
 
@@ -80,10 +90,6 @@ a:active {
 }
 
 /* Box Model */
-.container {
-    max-width: 750px;
-    margin: auto;
-}
 
 .list {
     padding: 0 20px;
