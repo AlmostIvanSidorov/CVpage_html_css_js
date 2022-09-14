@@ -34,7 +34,7 @@ body {
 
 .info {
     display: flex;
-    /* margin-bottom: 20px; */
+    margin-bottom: 20px;
 }
 
 .container {
@@ -42,17 +42,17 @@ body {
     margin: auto;
 }
 
-@media (max-width: 700px) {
+/* @media (max-width: 700px) {
     .info {
         text-align: center;
         display: block;
     }
 
-    /* .container {
+    .container {
         max-width: auto;
         margin: auto;
-    } */
-}
+    }
+} */
 
 .info-text {
     margin-left: 40px;
