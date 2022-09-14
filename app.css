@@ -48,10 +48,10 @@ body {
         display: block;
     }
 
-    .container {
+    /* .container {
         max-width: auto;
         margin: auto;
-    }
+    } */
 }
 
 .info-text {
