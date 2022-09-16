@@ -180,6 +180,15 @@ a:active {
     width: 50%;
 }
 
+/* .btns {
+    display: flex;
+}
+
+.likeBtn {
+    position: absolute;
+    border-radius: 40px;
+} */
+
 .btn {
     background: #111;
     padding: 15px 20px;
